@@ -1,0 +1,22 @@
+.mediumGame {
+  display: none;
+}
+.mediumMemory {
+  margin: 0 auto;
+  background-color: var(--transparent-bc);
+  width: 600px;
+  height: 600px;
+  border-radius: 20px;
+  border: 2px solid aquamarine;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 1rem;
+}
+
+.cardM {
+  flex-basis: 25%;
+  height: 25%;
+  background-color: var(--transparent-bc);
+  border: 2px solid rgb(16, 2, 74);
+  border-radius: 20px;
+}

@@ -1,0 +1,49 @@
+.bat {
+  background-image: url(./icons/bat.png);
+  background-size: cover;
+}
+
+.boat {
+  background-image: url(./icons/boat.png);
+  background-size: cover;
+}
+
+.butterfly {
+  background-image: url(./icons/butterfly.png);
+  background-size: cover;
+}
+
+.crane {
+  background-image: url(./icons/crane.png);
+  background-size: cover;
+}
+
+.dog {
+  background-image: url(./icons/dog.png);
+  background-size: cover;
+}
+
+.giraffe {
+  background-image: url(./icons/giraffe.png);
+  background-size: cover;
+}
+
+.dolphin {
+  background-image: url(./icons/dolphin.png);
+  background-size: cover;
+}
+
+.penguin {
+  background-image: url(./icons/penguin.png);
+  background-size: cover;
+}
+
+.pinwheel {
+  background-image: url(./icons/pinwheel.png);
+  background-size: cover;
+}
+
+.plane {
+  background-image: url(./icons/plane.png);
+  background-size: cover;
+}
